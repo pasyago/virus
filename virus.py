@@ -50,7 +50,7 @@ def banner():
     print WW+"  |            MOD BY: AFRIDI KHAN ARIYAN       |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
     print WW+"  |        TEAM : DARK VIRUS 07 BY AFRIDI       |"
-    print Y+"   |    FB GROUP : fb/Dark.virus.07              |"
+    print Y+"  |    FB GROUP : fb/Dark.virus.07              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -160,9 +160,9 @@ def runn_noobs():
       /o`    .:`    `              --    `o/
      -s.     .:`                   --     .s-
      o/     .:`                     --     +o
-    .s-     :.                      `:`    -s`
+    .s-     :.   DARK        VIRUS  `:`    -s`
     .s.     :.                      `:`    .s.
-    .s-     --                      .:     -s.
+    .s-     --          07          .:     -s.
      o/     `-.                    `-.     /o
      -s.     `--`                `.-`     .s-
       /o` ----``..--..`    `...--.`      `o/
